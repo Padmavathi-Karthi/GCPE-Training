@@ -5,7 +5,7 @@ limit = 120
 counter = 1
 while counter < limit:
     if counter > 10:
-        break
+        break          # once reaches to 10 it will stop (break)
     else:
         print(counter)
     counter = counter + 1
