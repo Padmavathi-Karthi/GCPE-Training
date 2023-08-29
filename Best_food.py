@@ -8,6 +8,7 @@ elif food == "chicken":
     print("Chickens are good in proteins!")
 else:
     print("Never heard of it!")
+    
 new_food = input("What is your second best food?: ")
 if new_food == "rice":
     print("Yes this food is best")
