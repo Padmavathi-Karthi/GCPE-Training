@@ -12,3 +12,4 @@ while counter < limit:
     # print("Finished")   # it will print in each and every lines.
     
 print("Finished")   # it will print only if the condition is not satisfied
+
