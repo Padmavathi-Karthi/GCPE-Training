@@ -16,5 +16,6 @@ boolean_2 = False
 
 # type()
 print(type(integer_1))  # method 1
-integer = type(10)
+integer = type("10")
 print(integer)
+print(type(float_1))
