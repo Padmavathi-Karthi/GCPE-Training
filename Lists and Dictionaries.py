@@ -41,7 +41,7 @@ shopping_list1 = []
 counter = 0
 while counter < 20:
   item_2 = input('what do you need?')
-  shopping_list.append(item_2)
+  shopping_list1.append(item_2)
   counter = counter + 1
 
 print(shopping_list1)
